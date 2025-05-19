@@ -1,6 +1,6 @@
 # Recommendation Service API
 ![Image](https://files.realpython.com/media/Build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.451abc4ecb9f.jpg)
-
+*Image sourced from [Real Python](https://realpython.com/)*
 A FastAPI-based recommendation service that provides personalized post recommendations to users based on their characteristics and interaction history. The service implements A/B testing functionality (currently works with 2 Catboost models being compared to one another). 
 
 The crux of the project is based on the final project from [Karpov Courses Machine Learning Engineer](https://karpov.courses/ml-start) course, credit goes to its authors for creating an amazing learning opportunity.
