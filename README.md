@@ -179,11 +179,6 @@ View logs:
 docker-compose logs -f
 ```
 
-## License
-
-[Your chosen license]
-
 ## Author
 
-[Your Name]
-
+Sam Maliarov
