@@ -1,5 +1,5 @@
 # Recommendation Service API
-https://files.realpython.com/media/Build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.451abc4ecb9f.jpg
+![Image](https://files.realpython.com/media/Build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.451abc4ecb9f.jpg)
 
 A FastAPI-based recommendation service that provides personalized post recommendations to users based on their characteristics and interaction history. The service implements A/B testing functionality (currently works with 2 Catboost models being compared to one another). 
 
