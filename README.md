@@ -2,9 +2,7 @@
 
 A FastAPI-based recommendation service that provides personalized post recommendations to users based on their characteristics and interaction history. The service implements A/B testing functionality (currently works with 2 Catboost models being compared to one another). 
 
-This is a final project in [Karpov Courses Machine Learning Engineer](https://karpov.courses/ml-start) course, credit goes to its authors for creating an amazing learning opportunity.
-
-Testing is present, but it is quite simplistic. 
+The crux of the project is based on the final project from [Karpov Courses Machine Learning Engineer](https://karpov.courses/ml-start) course, credit goes to its authors for creating an amazing learning opportunity.
 
 ## Features
 
